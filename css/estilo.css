@@ -1,0 +1,26 @@
+body{
+	background: #e5e5e5;
+}
+#home {
+	background: #ffc107;
+	color: white;
+}
+.imformacoes{
+	background: #ffffff;
+}
+ul{
+	text-align: center;
+}
+#Botao-entrar{
+	margin-right: 16px;
+}
+
+.caixa{
+	margin: 0 10px;
+	padding: 40px 0;
+	border-bottom: 2px solid #e5e5e5;
+}
+
+footer p a{
+	margin: 5px 15px;
+}
